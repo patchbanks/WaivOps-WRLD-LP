@@ -33,9 +33,10 @@ The WRLD-LP dataset is licensed under Creative Commons Attribution 4.0 Internati
 
 The audio files are provided in 24-bit WAV format and encoded at 44.1kHz.
 
-Direct Download (7.1GB) [wrld_lp_id_001.tar.gz](https://zenodo.org/record/7523435/files/hh_lfbb_lps_mid_001-009.tar.gz?download=1)
+Direct Download (6.5GB) [wrld_lp_id_001.tar.gz](https://zenodo.org/record/8388266/files/wrld_lp_id_001.tar.gz?download=1)
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7523435.svg)](https://doi.org/10.5281/zenodo.7523435)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8388266.svg)](https://doi.org/10.5281/zenodo.8388266)
+
 
 ## File Name Reference
 
