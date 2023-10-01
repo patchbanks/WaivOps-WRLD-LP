@@ -4,7 +4,7 @@
 
 ## WRLD-LP Dataset
 
-WRLD-LP is an open audio dataset composed of a series of drum recordings in the genre of world percussion music. The dataset comprises 3,162 audio loops recorded in uncompressed stereo WAV format, generated with an internal sample dataset and MIDI files sourced from a code-based music generation system at various tempo rates, along with a MIDI transformer model trained on more than 30,000 MIDI files.
+WRLD-LP is an open audio dataset comprised of a series of symbolic drum recordings in the genres of world percussion music. The dataset includes 3,162 audio loops recorded in uncompressed stereo WAV format. The compositions were generated with an internal sample dataset played with note-dense MIDI drum files from a code-based music generation system, along with a MIDI transformer model trained on more than 30,000 MIDI files.
 
 ## Dataset
 
