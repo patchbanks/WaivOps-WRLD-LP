@@ -55,7 +55,7 @@ If you use this dataset for a research or development project, please cite the f
 ```bash
 @misc{WRLD-LP,
 author = {WaivOps},
-title = {WRLD-LP},
+title = {WaivOps WRLD-LP: Open Audio Resources for Machine Learning in Music},
 year = {2023},
 doi = {10.5281/zenodo.8388266},
 url = {https://doi.org/10.5281/zenodo.8388266},
